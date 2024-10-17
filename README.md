@@ -1,9 +1,10 @@
-![Header](file:///C:/Users/prasa/Downloads/github-header-image.png)
+
+![github-header-image](https://github.com/user-attachments/assets/aa02e695-de96-4c97-b788-75346a366020)
 
 
 <h1 align="center">Hi 👋, I'm Prasad Maskar</h1>
 <h3 align="center">A passionate python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.defteam.com/wordpress/wp-content/themes/defteam/images/PDS/pythonFeature_img.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devprasad7&label=Profile%20views&color=0e75b6&style=flat" alt="devprasad7" /> </p>
 
