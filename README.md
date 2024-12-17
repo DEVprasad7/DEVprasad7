@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devprasad7&label=Profile%20views&color=0e75b6&style=flat" alt="devprasad7" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python**,**java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
