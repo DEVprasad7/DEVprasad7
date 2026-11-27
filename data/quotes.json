@@ -1,0 +1,22 @@
+[
+  {"text":"Build small. Finish often. Learn from what survives contact with reality.","tag":"SHIP"},
+  {"text":"A useful question is often the first working prototype.","tag":"CURIOSITY"},
+  {"text":"Debugging is detective work where you are also the suspect.","tag":"DEBUG"},
+  {"text":"Consistency makes the impressive thing look inevitable.","tag":"PROCESS"},
+  {"text":"Make it work. Understand why. Then make it better.","tag":"ENGINEERING"},
+  {"text":"The fastest way to learn a tool is to build something slightly too ambitious with it.","tag":"LEARN"},
+  {"text":"Every clean solution started as a messy question.","tag":"THINK"},
+  {"text":"Don't just collect tutorials. Collect finished experiments.","tag":"BUILD"},
+  {"text":"Progress is a trail of problems you can solve now that you couldn't solve before.","tag":"GROW"},
+  {"text":"The best feature is the one that makes the user's next step easier.","tag":"DESIGN"},
+  {"text":"Be curious enough to explore and disciplined enough to ship.","tag":"FOCUS"},
+  {"text":"Readable code is a kindness to your future self.","tag":"CRAFT"},
+  {"text":"Start with what you know. Use the project to discover what you don't.","tag":"EXPLORE"},
+  {"text":"A failure that taught you something is part of the build history.","tag":"ITERATE"},
+  {"text":"Keep the scope small enough to finish and interesting enough to care.","tag":"MAKE"},
+  {"text":"One solved edge case can teach more than ten copied examples.","tag":"PRACTICE"},
+  {"text":"The terminal is quiet. The possibilities are not.","tag":"CREATE"},
+  {"text":"Good engineering is curiosity with a feedback loop.","tag":"SYSTEMS"},
+  {"text":"If you can explain the trade-off, you are closer to owning the solution.","tag":"REASON"},
+  {"text":"Keep your experiments honest, your notes clear, and your commits small.","tag":"WORKFLOW"}
+]
