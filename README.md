@@ -119,11 +119,11 @@ A small daily reminder to keep learning, building, and staying curious.
 
 ## `~/connect`
 
-<div align="center">
-  <img src="./assets/zeraora_2.gif" width="105" alt="Zeraora Kupissa animated GIF" />
-</div>
 <a href="https://github.com/DEVprasad7">GitHub ↗</a> · <a href="https://github.com/DEVprasad7?tab=repositories">Explore repositories ↗</a>
 
 <sub>Built with curiosity, persistence, and too many terminal tabs. · India</sub>
 
+<div align="center">
+  <img src="./assets/zeraora_2.gif" width="105" alt="Zeraora Kupissa animated GIF" />
+</div>
 <div align="center"><sub>profile status: still learning · always building</sub></div>
