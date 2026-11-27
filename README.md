@@ -1,22 +1,68 @@
+<div align="center">
 
-![github-header-image](https://github.com/user-attachments/assets/aa02e695-de96-4c97-b788-75346a366020)
+<img src="assets/header.svg" alt="Prasad Maskar" width="100%"/>
 
+<br/>
 
-<h1 align="center">Hi 👋, I'm Prasad Maskar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devprasad7&label=Profile%20views&color=0e75b6&style=flat" alt="devprasad7" /> </p>
+<br/>
 
-- 🌱 I’m currently learning **python**,**java**
+```ts
+const prasad = {
+  location: "India",
+  building:  ["web apps with Next.js", "small tools that make people smile"],
+  learning:  ["Python", "Java"],
+  funFact:   "my profile redeploys itself every midnight (IST)",
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## `~/pokedex` — ten new Pokémon every day
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="assets/pokemon.svg" alt="Pokemon of the day" width="100%"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devprasad7&show_icons=true&locale=en" alt="devprasad7" /></p>
+<sub>Fresh from PokéAPI at midnight IST. The star changes mood by type, season and Indian festival days. Built from my <a href="https://github.com/DEVprasad7/Pokedex-Pokemon-Website-Using-NextJS">Pokédex project</a>.</sub>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devprasad7&" alt="devprasad7" /></p>
+## `~/quote`
+
+<img src="assets/quote.svg" alt="Quote of the day" width="100%"/>
+
+## `~/projects`
+
+| project | what it does | stack |
+| :-- | :-- | :-- |
+| [Pokédex](https://github.com/DEVprasad7/Pokedex-Pokemon-Website-Using-NextJS) | Browse Pokémon with live API data | Next.js |
+| [Motivational Quotes](https://github.com/DEVprasad7/CodeSprint-Tech-Internship-Task_5-Motivational_Quotes) | Random quote generator (CodeSprint internship) | JavaScript |
+
+## `~/stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devprasad7&show_icons=true&hide_border=false&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=444444&border_radius=12"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devprasad7&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=444444&border_radius=12"/>
+
+<img src="https://streak-stats.demolab.com?user=devprasad7&background=000000&border=444444&stroke=444444&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777&border_radius=12"/>
+
+<img src="https://raw.githubusercontent.com/DEVprasad7/DEVprasad7/output/snake.svg" width="100%"/>
+
+</div>
+
+## `~/connect`
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/DEVprasad7)
+<!-- Add yours, keep the same black style:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-ID)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:YOU@example.com)
+-->
+
+<div align="center"><sub>
+<img src="https://komarev.com/ghpvc/?username=devprasad7&label=visitors&color=000000&style=flat-square"/>
+</sub></div>
