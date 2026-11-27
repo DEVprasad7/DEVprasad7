@@ -29,18 +29,11 @@ const prasad = {
 
 <img src="assets/pokemon.svg" alt="Pokemon of the day" width="100%"/>
 
-<sub>Fresh from PokéAPI at midnight IST. The star changes mood by type, season and Indian festival days. Built from my <a href="https://github.com/DEVprasad7/Pokedex-Pokemon-Website-Using-NextJS">Pokédex project</a>.</sub>
+<sub>Fresh from PokéAPI at midnight IST. The star changes mood by type, season and Indian festival days.</sub>
 
 ## `~/quote`
 
 <img src="assets/quote.svg" alt="Quote of the day" width="100%"/>
-
-## `~/projects`
-
-| project | what it does | stack |
-| :-- | :-- | :-- |
-| [Pokédex](https://github.com/DEVprasad7/Pokedex-Pokemon-Website-Using-NextJS) | Browse Pokémon with live API data | Next.js |
-| [Motivational Quotes](https://github.com/DEVprasad7/CodeSprint-Tech-Internship-Task_5-Motivational_Quotes) | Random quote generator (CodeSprint internship) | JavaScript |
 
 ## `~/stats`
 
@@ -50,7 +43,7 @@ const prasad = {
 
 <img src="https://streak-stats.demolab.com?user=devprasad7&background=000000&border=444444&stroke=444444&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777&border_radius=12"/>
 
-<img src="https://raw.githubusercontent.com/DEVprasad7/DEVprasad7/output/snake.svg" width="100%"/>
+<img src="assets/snake.svg" width="100%"/>
 
 </div>
 

@@ -300,7 +300,7 @@ def build_quote():
     text, author = QUOTES[TODAY.toordinal() % len(QUOTES)]
     lines = textwrap.wrap(f"“{text}”", 58)
     size, lh = 18, 30
-    w, h = 840, 90 + len(lines) * lh
+    w, h = 840, 92 + len(lines) * lh + 44
     body = window_dots()
     t = 0.3
     head, t = typed("$ cat quote_of_the_day.txt", 28, 52, 12, t, 0.03, 400, .55)
@@ -357,7 +357,7 @@ def render_stats(user, st):
                  f'<text x="{x}" y="134" font-size="11" fill="#fff" fill-opacity=".55">{label}</text>')
     body += '<text x="28" y="176" font-size="11" fill="#fff" fill-opacity=".55">languages (by code size)</text>'
     total = sum(st["langs"].values()) or 1
-    top = sorted(st["langs"].items(), key=lambda kv: -kv[1])[:6]
+    top = [kv for kv in sorted(st["langs"].items(), key=lambda kv: -kv[1]) if kv[1] / total >= 0.01][:6]
     shades = [1, .75, .55, .4, .28, .18]
     x = 28.0
     for (name, val), op in zip(top, shades):
