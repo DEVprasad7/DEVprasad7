@@ -1,34 +1,28 @@
-name: Refresh profile artwork
+name: Refresh profile README
 
 on:
   schedule:
-    # 18:30 UTC = 00:00 IST
-    - cron: '30 18 * * *'
+    # 00:15 IST = 18:45 UTC on the previous calendar day
+    - cron: "45 18 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout profile repository
-        uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-      - name: Generate daily SVG assets
+          python-version: "3.12"
+      - name: Refresh dynamic profile sections
         run: python scripts/generate_profile.py
-      - name: Commit refreshed artwork if changed
+      - name: Commit changes if updated
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/*.svg
-          if git diff --cached --quiet; then
-            echo "No SVG changes to commit"
-          else
-            git commit -m "chore: refresh daily profile assets"
-            git push
-          fi
+          git add README.md assets/header.svg assets/quote.svg
+          git diff --cached --quiet || git commit -m "chore: refresh daily profile content"
+          git push

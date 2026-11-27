@@ -1,0 +1,47 @@
+{
+  "summer": {
+    "months": [
+      3,
+      4,
+      5
+    ],
+    "label": "SUMMER",
+    "behavior": [
+      "seeking shade",
+      "lazy stretch",
+      "sunny bounce"
+    ],
+    "theme_note": "Heat shimmer, a sun motif and laid-back Pok\u00e9mon."
+  },
+  "monsoon": {
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "label": "MONSOON",
+    "behavior": [
+      "rain watching",
+      "puddle hop",
+      "umbrella hide"
+    ],
+    "theme_note": "Rain streaks, clouds and cozy rainy-day Pok\u00e9mon."
+  },
+  "winter": {
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "label": "WINTER",
+    "behavior": [
+      "cozy idle",
+      "tiny shiver",
+      "sleepy curl"
+    ],
+    "theme_note": "Soft snow dots, scarf-like details and warm idle poses."
+  }
+}

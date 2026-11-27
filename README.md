@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Prasad Maskar — developer portfolio header" />
+  <img src="assets/header.svg" width="100%" alt="Prasad Maskar — monochrome developer portfolio header" />
 </div>
 
 
 <div align="center">
-  <a href="https://github.com/DEVprasad7">GitHub</a> ·
-  <a href="https://github.com/DEVprasad7?tab=repositories">Projects</a> ·
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  <a href="https://github.com/DEVprasad7">GITHUB</a> ·
+  <a href="https://github.com/DEVprasad7?tab=repositories">PROJECTS</a> ·
+  <a href="https://github.com/DEVprasad7">CONTACT</a>
 </div>
+
 
 ---
 
@@ -18,11 +19,22 @@ Computer Engineering student and developer interested in building practical soft
 
 ## `~/stack`
 
-**Languages** · Python · JavaScript · Java · SQL  
-**Web** · React · Next.js · HTML · CSS · Streamlit  
-**Backend** · Flask · FastAPI  
-**Data / ML** · Pandas · scikit-learn · MySQL · SQLite  
-**Tools** · Git · Linux · Docker
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,flask,fastapi&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, React, Next.js, Flask, FastAPI and Streamlit icons" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux,docker,vscode&theme=dark" alt="MySQL, SQLite, Pandas, Git, GitHub, Linux, Docker and VS Code icons" />
+</div>
+
+
+<details>\n<summary><code>stack.txt</code> — text version</summary>
+
+- **Languages:** Python · JavaScript · Java · SQL
+- **Frontend:** React · Next.js · HTML · CSS · Streamlit
+- **Backend:** Flask · FastAPI
+- **Data / ML:** Pandas · scikit-learn · MySQL · SQLite
+- **Tools:** Git · Linux · Docker
+
+</details>
 
 <sub>Tools I use and learn with; not a claim of expert-level proficiency in every item.</sub>
 
@@ -30,50 +42,82 @@ Computer Engineering student and developer interested in building practical soft
 
 ## `~/daily-pokedex`
 
+<!-- DAILY_POKEDEX_START -->
 <div align="center">
-  <img src="assets/pokemon.svg" width="100%" alt="Today's ten Pokémon, including a daily featured Pokémon" />
+<table width="100%"><tr><td align="left"><sub>DAILY POKÉDEX / 27 NOV 2026 · INDIA (IST)</sub></td><td align="right"><sub>10 SPECIES · WINTER MODE</sub></td></tr></table>
+<h3 align="left">FEATURED: Machop</h3>
+<p align="left"><code>BEHAVIOUR: COZY IDLE</code></p>
+<table width="100%" cellpadding="4" cellspacing="8"><tr><td align="center" width="20%" style="border:1px solid #333;border-radius:10px;padding:7px;background:#101010;">
+<a href="https://www.pokemon.com/us/pokedex/rowlet"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png" alt="Rowlet sprite" width="72" height="72" /></a><br/><sub>#01</sub><br/><strong>Rowlet</strong></td><td align="center" width="20%" style="border:1px solid #333;border-radius:10px;padding:7px;background:#101010;">
+<a href="https://www.pokemon.com/us/pokedex/machop"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/66.gif" alt="Machop sprite" width="72" height="72" /></a><br/><sub>#02</sub><br/><strong>Machop</strong><br/><sub>★ FEATURED · TRY GIF</sub></td><td align="center" width="20%" style="border:1px solid #333;border-radius:10px;padding:7px;background:#101010;">
+<a href="https://www.pokemon.com/us/pokedex/snorlax"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png" alt="Snorlax sprite" width="72" height="72" /></a><br/><sub>#03</sub><br/><strong>Snorlax</strong></td><td align="center" width="20%" style="border:1px solid #333;border-radius:10px;padding:7px;background:#101010;">
+<a href="https://www.pokemon.com/us/pokedex/scorbunny"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png" alt="Scorbunny sprite" width="72" height="72" /></a><br/><sub>#04</sub><br/><strong>Scorbunny</strong></td><td align="center" width="20%" style="border:1px solid #333;border-radius:10px;padding:7px;background:#101010;">
+<a href="https://www.pokemon.com/us/pokedex/mudkip"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png" alt="Mudkip sprite" width="72" height="72" /></a><br/><sub>#05</sub><br/><strong>Mudkip</strong></td></tr><tr><td align="center" width="20%" style="border:1px solid #333;border-radius:10px;padding:7px;background:#101010;">
+<a href="https://www.pokemon.com/us/pokedex/ditto"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png" alt="Ditto sprite" width="72" height="72" /></a><br/><sub>#06</sub><br/><strong>Ditto</strong></td><td align="center" width="20%" style="border:1px solid #333;border-radius:10px;padding:7px;background:#101010;">
+<a href="https://www.pokemon.com/us/pokedex/bulbasaur"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="Bulbasaur sprite" width="72" height="72" /></a><br/><sub>#07</sub><br/><strong>Bulbasaur</strong></td><td align="center" width="20%" style="border:1px solid #333;border-radius:10px;padding:7px;background:#101010;">
+<a href="https://www.pokemon.com/us/pokedex/psyduck"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" alt="Psyduck sprite" width="72" height="72" /></a><br/><sub>#08</sub><br/><strong>Psyduck</strong></td><td align="center" width="20%" style="border:1px solid #333;border-radius:10px;padding:7px;background:#101010;">
+<a href="https://www.pokemon.com/us/pokedex/lucario"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png" alt="Lucario sprite" width="72" height="72" /></a><br/><sub>#09</sub><br/><strong>Lucario</strong></td><td align="center" width="20%" style="border:1px solid #333;border-radius:10px;padding:7px;background:#101010;">
+<a href="https://www.pokemon.com/us/pokedex/togepi"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png" alt="Togepi sprite" width="72" height="72" /></a><br/><sub>#10</sub><br/><strong>Togepi</strong></td></tr></table>
+<p align="left"><sub>Date-seeded lineup · Pokémon sprites served directly from PokéAPI sprite repository · WINTER theme</sub></p>
 </div>
+<!-- DAILY_POKEDEX_END -->
 
-
-Ten Pokémon rotate daily. The featured Pokémon gets a seasonal or calendar-based mood—plus occasional low-key surprises. India-focused calendar moments are represented by dates configured in `data/festivals.json`.
-
+---
 
 ## `~/thought-of-the-day`
 
 <div align="center">
-  <img src="assets/quote.svg" width="100%" alt="Daily developer thought" />
+  <img src="assets/quote.svg" width="100%" alt="Daily developer quote" />
 </div>
 
 
-Short, original reminders about learning, building, and staying curious. Rotates once a day.
+A small daily reminder to keep learning, building, and staying curious.
 
+---
 
 ## `~/selected-work`
 
-| Project | What it is | Stack |
-|---|---|---|
-| [ChessMaster](https://github.com/DEVprasad7) | Chess experience with AI opponents and analysis features | Next.js · React · TypeScript |
-| [LangChain Gemini Chat](https://geminichatai.streamlit.app/) | Chat app with SQLite authentication and file upload | Python · Streamlit · LangChain |
-| [Mumbai House Price Prediction](https://github.com/DEVprasad7) | ML workflow for property-price prediction | Python · Pandas · scikit-learn |
-| [Data Engineering Capstone](https://github.com/DEVprasad7) | Hands-on data-pipeline learning project | Python · Data engineering |
-| [Pokédex](https://github.com/DEVprasad7/Pokedex-Pokemon-Website-Using-NextJS) | Daily Pokémon discovery with Pokémon API data | Next.js · API |
+<table>
+<tr><td width="50%">
+<h3>ChessMaster</h3>
+<p>A modern chess project with AI opponents and analysis features.</p>
+<sub>Next.js · React · TypeScript · AI</sub><br/>
+<a href="https://github.com/DEVprasad7?tab=repositories">SOURCE / REPOSITORY LIST ↗</a>
+</td><td width="50%">
+<h3>LangChain Gemini Chat</h3>
+<p>Chat app with SQLite authentication and file upload.</p>
+<sub>Python · Streamlit · LangChain</sub><br/>
+<a href="https://geminichatai.streamlit.app/">LIVE DEMO ↗</a>
+</td></tr>
+<tr><td width="50%">
+<h3>Mumbai House Price Prediction</h3>
+<p>Machine-learning workflow for estimating property prices using housing data.</p>
+<sub>Python · Pandas · scikit-learn</sub><br/>
+<a href="https://github.com/DEVprasad7?tab=repositories">SOURCE / REPOSITORY LIST ↗</a>
+</td><td width="50%">
+<h3>Data Engineering Capstone</h3>
+<p>Hands-on data engineering practice focused on pipelines and processing datasets.</p>
+<sub>Python · Data Engineering</sub><br/>
+<a href="https://github.com/DEVprasad7?tab=repositories">SOURCE / REPOSITORY LIST ↗</a>
+</td></tr>
+</table>
 
-<sub>Replace any project link above that points to the profile root with its exact repository URL before publishing.</sub>
+<sub>Project links lead to the repository list where exact repository slugs haven't been verified. Replace with direct links when ready.</sub>
 
 
 ## `~/activity`
 
 <div align="center">
-  <img src="assets/stats.svg" width="100%" alt="Profile activity card" />
-  <img src="assets/snake.svg" width="100%" alt="Contribution snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVprasad7&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF&bg_color=0D1117" width="100%" alt="GitHub profile stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DEVprasad7&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=BBBBBB" width="100%" alt="GitHub contribution streak" />
 </div>
 
 
 ## `~/connect`
 
-[GitHub](https://github.com/DEVprasad7) · [Email](mailto:YOUR_EMAIL@example.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+<a href="https://github.com/DEVprasad7">GitHub ↗</a> · <a href="https://github.com/DEVprasad7?tab=repositories">Explore repositories ↗</a>
 
 <sub>Built with curiosity, persistence, and too many terminal tabs. · India</sub>
 
-
-<div align="center"><sub>profile status: 0 errors · still learning</sub></div>
+<div align="center"><sub>profile status: still learning · always building</sub></div>
