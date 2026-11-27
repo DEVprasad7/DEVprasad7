@@ -46,8 +46,7 @@ const prasad = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devprasad7&show_icons=true&hide_border=false&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=444444&border_radius=12"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devprasad7&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=444444&border_radius=12"/>
+<img src="assets/stats.svg" alt="GitHub stats" width="100%"/>
 
 <img src="https://streak-stats.demolab.com?user=devprasad7&background=000000&border=444444&stroke=444444&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777&border_radius=12"/>
 
