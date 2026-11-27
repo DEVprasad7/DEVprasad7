@@ -14,19 +14,19 @@
 
 ## `~/about`
 
-<div align="right"><img src="assets/zeraora-peek.svg" width="100" alt="Zeraora peeking in monochrome line art" /></div>
-
-<div align="right"><img src="assets/zeraora-peek.svg" width="100" alt="Zeraora peeking in monochrome line art" /></div>
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/_O_uDirHVIIAAAAd/zeraora.gif" width="105" alt="Zeraora animated GIF" />
+  <img src="https://media1.tenor.com/m/b51iESggW8IAAAAd/zeraora-kupissa.gif" width="105" alt="Zeraora Kupissa animated GIF" />
+</div>
 Computer Engineering student and developer interested in building practical software—from Python tools and data pipelines to AI-powered applications. I like learning by shipping projects, debugging the details, and turning ideas into something people can use.
 
 
 ## `~/stack`
 
-<div align="right"><img src="assets/zeraora-sneak.svg" width="110" alt="Zeraora sneaking in line art" /></div>
-
-<div align="right"><img src="assets/zeraora-sneak.svg" width="110" alt="Zeraora sneaking in line art" /></div>
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/_O_uDirHVIIAAAAd/zeraora.gif" width="105" alt="Zeraora animated GIF" />
+  <img src="https://media1.tenor.com/m/b51iESggW8IAAAAd/zeraora-kupissa.gif" width="105" alt="Zeraora Kupissa animated GIF" />
+</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,flask,fastapi&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, React, Next.js, Flask, FastAPI and Streamlit icons" />
   <br/>
@@ -50,10 +50,10 @@ Computer Engineering student and developer interested in building practical soft
 
 ## `~/daily-pokedex`
 
-<div align="center"><img src="assets/zeraora-jump.svg" width="120" alt="Zeraora jumping in animated line art" /></div>
-
-<div align="center"><img src="assets/zeraora-jump.svg" width="120" alt="Zeraora jumping in animated line art" /></div>
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/_O_uDirHVIIAAAAd/zeraora.gif" width="105" alt="Zeraora animated GIF" />
+  <img src="https://media1.tenor.com/m/b51iESggW8IAAAAd/zeraora-kupissa.gif" width="105" alt="Zeraora Kupissa animated GIF" />
+</div>
 <!-- DAILY_POKEDEX_START -->
 <div align="center">
 <table width="100%"><tr><td align="left"><sub>DAILY POKÉDEX / 27 NOV 2026 · INDIA (IST)</sub></td><td align="right"><sub>10 SPECIES · WINTER MODE</sub></td></tr></table>
@@ -89,10 +89,10 @@ A small daily reminder to keep learning, building, and staying curious.
 
 ## `~/selected-work`
 
-<div align="right"><img src="assets/zeraora-dash.svg" width="125" alt="Zeraora dashing across the projects section" /></div>
-
-<div align="right"><img src="assets/zeraora-dash.svg" width="125" alt="Zeraora dashing across the projects section" /></div>
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/_O_uDirHVIIAAAAd/zeraora.gif" width="105" alt="Zeraora animated GIF" />
+  <img src="https://media1.tenor.com/m/b51iESggW8IAAAAd/zeraora-kupissa.gif" width="105" alt="Zeraora Kupissa animated GIF" />
+</div>
 <table>
 <tr><td width="50%">
 <h3>ChessMaster</h3>
@@ -123,10 +123,10 @@ A small daily reminder to keep learning, building, and staying curious.
 
 ## `~/activity`
 
-<div align="left"><img src="assets/zeraora-jump.svg" width="88" alt="Zeraora bouncing beside activity" /></div>
-
-<div align="left"><img src="assets/zeraora-jump.svg" width="88" alt="Zeraora bouncing beside activity" /></div>
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/_O_uDirHVIIAAAAd/zeraora.gif" width="105" alt="Zeraora animated GIF" />
+  <img src="https://media1.tenor.com/m/b51iESggW8IAAAAd/zeraora-kupissa.gif" width="105" alt="Zeraora Kupissa animated GIF" />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DEVprasad7&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF&bg_color=0D1117" width="100%" alt="GitHub profile stats" />
   <br/>
@@ -136,10 +136,10 @@ A small daily reminder to keep learning, building, and staying curious.
 
 ## `~/connect`
 
-<div align="right"><img src="assets/zeraora-peek.svg" width="90" alt="Zeraora peeking at the footer" /></div>
-
-<div align="right"><img src="assets/zeraora-peek.svg" width="90" alt="Zeraora peeking at the footer" /></div>
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/_O_uDirHVIIAAAAd/zeraora.gif" width="105" alt="Zeraora animated GIF" />
+  <img src="https://media1.tenor.com/m/b51iESggW8IAAAAd/zeraora-kupissa.gif" width="105" alt="Zeraora Kupissa animated GIF" />
+</div>
 <a href="https://github.com/DEVprasad7">GitHub ↗</a> · <a href="https://github.com/DEVprasad7?tab=repositories">Explore repositories ↗</a>
 
 <sub>Built with curiosity, persistence, and too many terminal tabs. · India</sub>
