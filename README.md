@@ -34,7 +34,7 @@ Computer Engineering student and developer interested in building practical soft
 </div>
 
 
-<details>\n<summary><code>stack.txt</code> — text version</summary>
+<!-- <details>\n<summary><code>stack.txt</code> — text version</summary>
 
 - **Languages:** Python · JavaScript · Java · SQL
 - **Frontend:** React · Next.js · HTML · CSS · Streamlit
@@ -42,7 +42,7 @@ Computer Engineering student and developer interested in building practical soft
 - **Data / ML:** Pandas · scikit-learn · MySQL · SQLite
 - **Tools:** Git · Linux · Docker
 
-</details>
+</details> -->
 
 <sub>Tools I use and learn with; not a claim of expert-level proficiency in every item.</sub>
 
