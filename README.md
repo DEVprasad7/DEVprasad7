@@ -128,9 +128,9 @@ A small daily reminder to keep learning, building, and staying curious.
   <img src="https://media1.tenor.com/m/b51iESggW8IAAAAd/zeraora-kupissa.gif" width="105" alt="Zeraora Kupissa animated GIF" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVprasad7&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF&bg_color=0D1117" width="100%" alt="GitHub profile stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVprasad7&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF&bg_color=0D1117" width="50%" alt="GitHub profile stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DEVprasad7&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=BBBBBB" width="100%" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DEVprasad7&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=BBBBBB" width="50%" alt="GitHub contribution streak" />
 </div>
 
 
